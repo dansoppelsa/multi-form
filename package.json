@@ -1,0 +1,23 @@
+{
+  "name": "multi-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dansoppelsa/multi-form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dansoppelsa/multi-form/issues"
+  },
+  "homepage": "https://github.com/dansoppelsa/multi-form#readme"
+}
